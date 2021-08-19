@@ -1,3 +1,5 @@
+Hello Everyone! 
+
 - 👋 Hi, I’m @tuliofernando8.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning frontEnd, focusing on Vue.js.
