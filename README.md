@@ -1,10 +1,10 @@
 Hello Everyone! 
 
-- 👋 Hi, I’m @tuliofernando8.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning frontEnd, focusing on Vue.js.
-- 💞️ I’m looking to collaborate with some small projects that i develop for studying.
-- 📫 How to reach me: tuliofenandonogueira8@gmail.com.
+- 👋 I’m @tuliofernando8.
+- 💻 I’m interested in web development.
+- ✔  I’m currently learning frontEnd, focusing on Vue.js.
+- 📚 I’m looking to collaborate with some small projects that i develop for studying.
+- 📫 How to reach me: tuliofenandonogueira8@gmail.com or https://www.linkedin.com/in/tuliofnogueira/.
 
 Thank you for visiting, have a good day! :D
 
