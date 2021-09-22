@@ -4,7 +4,7 @@ Hello Everyone!
 - 💻 Computer Engineer and web development lover.
 - ✔  Currently learning frontEnd, focusing on Vue.js.
 - 📚 Looking to collaborate with some small projects that I develop for studying.
-- 📫 How to reach me: tuliofenandonogueira8@gmail.com or https://www.linkedin.com/in/tuliofnogueira/.
+- 📫 How to reach me: tuliofenandonogueira8@gmail.com or [Linkedin](https://www.linkedin.com/in/tuliofnogueira/).
 
 I've just started my journey in here, so I hope I can contributte in some way with a few personal projects(small ones for now 😀).
 Make yourselves comfortable and thank you all for visiting, have a good day! 😁
