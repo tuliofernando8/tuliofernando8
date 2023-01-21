@@ -1,8 +1,8 @@
 Hello Everyone! 
 
 - 👋 I’m @tuliofernando8.
-- 💻 Computer Engineer and web development lover.
-- ✔  Currently learning frontEnd, focusing on Vue.js.
+- 💻 Software Engineer and web development lover.
+- ✔  Currently working with front end Angular 2+ and Typescript.
 - 📚 Looking to collaborate with a few projects that I develop for studying.
 - 📫 How to reach me: tuliofenandonogueira8@gmail.com or [LinkedIn](https://www.linkedin.com/in/tuliofnogueira/).
 
